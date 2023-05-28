@@ -55,8 +55,3 @@ const todaysQuote = quotes[Math.floor(Math.random() * quotes.length)];  //quotes
 
   
 
-//console 창에서 Math.randonm() > random 숫자 나타냄
-//Math.ceil() 올림
-//Math.round 반올림
-//Math.floor 내림
-//Math.floor(Math.random()* 10)
